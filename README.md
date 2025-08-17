@@ -32,18 +32,6 @@ Not a guru, just someone who likes building things and solving problems.
 
 ---
 
-## 🏆 Some Contribution Stuff  
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeekPrathamesh&theme=radical)  
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeekPrathamesh&theme=radical&utcOffset=5.5)  
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeekPrathamesh&theme=radical)  
-
-</div>
-
----
-
 ## 🛠️ Tools & Tech I use  
 
 <div align="center">
