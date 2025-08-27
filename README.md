@@ -1,4 +1,4 @@
-# Hi 👋 I'm Prathamesh Teli  
+# Hi  I'm Prathamesh Teli .
 
 ### 🚀 I build websites, APIs & sometimes mess around with automation and AI  
 
