@@ -1,13 +1,13 @@
 # Hi  I'm Prathamesh Teli .
 
-### 🚀 I build websites, APIs & sometimes mess around with automation and AI  
+### I build websites, APIs & sometimes mess around with automation and AI  
 
 I mostly enjoy creating clean, responsive websites and learning new tech stuff on the way.  
 Not a guru, just someone who likes building things and solving problems.  
 
 ---
 
-## 📊 My GitHub Stats  
+## My GitHub Stats  
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Not a guru, just someone who likes building things and solving problems.
 
 ---
 
-## 📈 Activity  
+##  Activity  
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Not a guru, just someone who likes building things and solving problems.
 
 ---
 
-## 👀 Profile Views  
+##  Profile Views  
 
 <div align="center">
   
@@ -73,4 +73,4 @@ Not a guru, just someone who likes building things and solving problems.
 
 ---
 
-✨ Always open to teaming up on frontend, full-stack or just fun side projects. Let’s connect! ✨
+ Always open to teaming up on frontend, full-stack or just fun side projects. Let’s connect! 
